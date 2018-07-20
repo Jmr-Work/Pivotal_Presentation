@@ -1,0 +1,150 @@
+
+@brief 		Mission Statement for upcoming onsite technical presentation
+@details 	In prep, delivered by email to Ross
+@auth 		Justin Reina
+@rev		5
+@date 		7/19/18
+
+
+@section 	Project Selection
+	Contract work for Ergsense - HW, FW & Design (DTECTS, 2017)
+
+@section 	Mission Statement
+	Description of contract work (Ergsense) where hardware, firmware and design work helped stabilize an existing proof-of-concept and move it forward towards product release.
+
+@section 	Presentation Contents		
+	1 Challenges & Needs 	  (1)
+	2 Design Procedure		  (2)
+	3 Development Methodology (3)
+	4 Overcome Challenges	  (1)
+	5 Deliverable & Results	  (2)
+	6 Learnings & Growths	  (1)
+					   Total (10)	
+@section 	Statistics
+	5-6 people
+	60 min minute technical presentation
+	Deep Dive Potential for staff
+
+@section 	Key Points
+	Highlight hardware experience
+	Show direct value to team, by example
+
+	
+	
+	
+//**************************************************************************//
+//						     SECTIONS										//
+//**************************************************************************//
+@section 	Challenges & Needs
+	Stabilized Firmware Architecture
+	
+	
+	Board Revisions
+
+	
+	PoC Progression, Arduino towards release
+	
+	
+	Feature Integration
+
+	
+	
+@section 	Design Procedure
+	Needs Identification
+	
+	
+	Firmware Development
+	
+	
+	Board Development
+	
+	
+	Contract Completion & Transfer
+
+	
+	
+	
+	
+	
+@section 	Development Methodology
+	Documentation
+	
+	
+	Presentation
+	
+	
+	Code Syntax
+	
+	
+	Development Validation
+	
+	
+	PoC Form
+	
+	
+	Schematic Examples
+	
+	
+	Content Transfer to Ergsense
+	
+	
+	Revision Control
+
+	
+	
+@section 	Overcome Challenges
+	Unmet customer needs
+	
+	
+	Work scope identification
+	
+	
+	Espressif
+	
+	
+	Satisfying ambitious, abstract design needs
+
+	
+	
+@section 	Deliverable & Results
+	Schematics
+	
+	
+	Documentation
+	
+	
+	Board Design
+	
+	
+	Espressif bare-metal scope
+	
+	
+	Roadmap establish
+	
+	
+	Procedure Reference
+	
+	
+	GitHub
+
+	
+	
+	
+	
+	
+	
+	
+	
+@section 	Learnings & Growths
+	Communication
+	
+	
+	Customer Needs Identification
+	
+	
+	Risk Identification & Mitigation
+	
+	
+	Results Delivery to Ambitious, Scattered Customer
+
+	

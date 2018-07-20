@@ -1,0 +1,46 @@
+		@brief 		Mission Statement for upcoming onsite technical presentation
+		@details 	In prep, delivered by email to Ross
+		@auth 		Justin Reina
+		@date 		7/16/18
+
+		@section 	Project Selection
+			Board Design with DTECTS & Delivery with DTECTS
+	
+	An opportunity for relationship establishment as I moved back home was presented and I took a contract with Ergsense for existing design troubleshooting and revision. On review multiple product design requirements were missing which prevented establishment of a path for PoC to product, and the team was unsure how to move forward.
+
+	I identified the challenge and needs, generated a proper framing to communicate the end result for process alignment then began work towards that. My work was successful, establishing a successful framework and methodology to generate a successful result and my work is still in motion at present. I overcame several challenges given this was a senior friend of experience who had stepped out on a limb a bit, and was unsure how to admit or re-align for success
+
+	
+	
+@section 	Components to Share
+	1 - Challenge & needs identification
+	2 - Design Procedure
+	3 - Development Methodology
+	4 - Overcome Challenges
+	5 - Deliverable & results
+	
+@section 	Mission Statement
+
+
+@section 	Statistics
+	5-6 people
+	5-10 minute technical presentation
+	Deep Dive Potential for staff
+
+
+@section 	Key Points
+	Highlight hardware experience
+	Show direct value to team, by example
+
+
+@section 	Content Ideas
+	Upcoming tech arisals
+	Horizon of IOT-5G
+	Work project of past
+	Unknown problem and how it was solved
+	Example of something you would do for team
+
+@section 	Work
+	Dev Boards w/Intel
+	PCB work w/Ergsense
+	

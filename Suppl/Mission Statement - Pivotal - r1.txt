@@ -1,0 +1,21 @@
+@brief      Mission Statement for upcoming onsite technical presentation
+@details    In prep, delivered by email to Ross
+@auth       Justin Reina
+@rev        2
+@date       7/16/18
+
+@section     Project Selection
+    Contract work for Ergsense - HW, FW & Design (DTECTS, 2017)
+
+@section     Mission Statement
+    Description of contract work (Ergsense) where hardware, firmware and design work helped stabilize an existing proof-of-concept and move it forward towards product release.
+
+@section     Presentation Contents
+    1 Challenges & needs      (1)
+    2 Design Procedure        (2)
+    3 Development Methodology (3)
+    4 Overcome Challenges     (1)
+    5 Deliverable & results   (2)
+    6 Learnings & Growths     (1)
+                        Total (10)
+
