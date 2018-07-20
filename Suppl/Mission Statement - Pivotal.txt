@@ -1,9 +1,9 @@
 
 @brief 		Mission Statement for upcoming onsite technical presentation
-@details 	In prep, delivered by email to Ross
+@details 	Preparation for generation
 @auth 		Justin Reina
-@rev		5
-@date 		7/19/18
+@rev		6
+@date 		7/20/18
 
 
 @section 	Project Selection
@@ -19,7 +19,8 @@
 	4 Overcome Challenges	  (1)
 	5 Deliverable & Results	  (2)
 	6 Learnings & Growths	  (1)
-					   Total (10)	
+					   Total (10)
+
 @section 	Statistics
 	5-6 people
 	60 min minute technical presentation
@@ -145,6 +146,21 @@
 	Risk Identification & Mitigation
 	
 	
-	Results Delivery to Ambitious, Scattered Customer
+	Results Delivery to Ambitious Customer
 
+
+@section 	Things of Value to Present
+	Schematics				(DTECTS_hw/ work)
 	
+	Firmware Reference		(Examples Espressif work?)
+	
+	Design Docs				(Spec sheet, path forward)
+	
+	Work Sync & Integration	(Convergence of work flows)
+	
+	Project Org 			(DTECTS_hw org)
+	
+	Content Org & Sharing 	(GitHub)
+
+	Challenges & Learnings 	(Espressif OTM)
+
