@@ -1,0 +1,13 @@
+Introducing Adafruit Feather, Boards of a Feather flock together! 
+https://learn.adafruit.com/adafruit-feather/overview
+	*how this relates to Tomm, and opportunities this encompasses moving forward
+
+Wouldn't it be great if, instead of collecting shields, HATs, PMODs, Clicks, Booster Packs, Props... you could have a cross-compatible platform? Something that doesn't force you into one chipset? and allows you to mix-and-match the microcontroller, wireless protocol, and functional extensions?
+
+Yeah, me too! That's why I created Feather. Feather is a flexible and powerful family of microcontroller main-boards (Feathers) and daughter-boards (Wings) with a wide range of capabilities.
+
+
+"At its core, the Adafruit Feather is a complete ecosystem of products - and the best way to get your project flying"
+
+Feather - A complete line of development boards from Adafruit that are both standalone and stackable
+https://www.adafruit.com/feather
